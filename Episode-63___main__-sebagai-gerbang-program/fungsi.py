@@ -1,0 +1,1 @@
+print(f"nilai__name__ pada fungsi.py = '{__name__}'")
